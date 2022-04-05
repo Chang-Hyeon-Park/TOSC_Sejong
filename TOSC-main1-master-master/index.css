@@ -18,9 +18,10 @@
 
 .container .header{
     display: flex;
+    top:20px;
     justify-content: space-between;
-    margin-left:100px;
-    margin-right:100px;
+    padding-left:6%;
+    padding-right:6%;
     height:80px;
     align-items: center;
     position: sticky;
@@ -34,11 +35,15 @@
     background-color: none;
     border-color: white;
     padding: 5px;
-    padding-left:15px;
-    padding-right:15px;
+    padding-left:17px;
+    padding-right:17px;
     padding-bottom:5px;
     border-radius: 20px;
     border-width:1px;
+    font-size:20px;
+    font-weight:bold;
+    position:relative;
+    top:-8px;
 }
 
 .container .nav ul .FAQ {
