@@ -1,4 +1,6 @@
-세종대학교 산학협력단 SW코딩평가 2022년 신설 홈페이지 제작 관련 코드입니다.
+# 세종대학교 산학협력단 SW코딩평가 2022년 신설 홈페이지 제작
+
+바로가기 Link 👉 http://tosc.kr/
 
 ## 시작 페이지
 ![image](https://github.com/user-attachments/assets/0389fc08-77f2-4976-82c0-2dfc48b6dcf8)
